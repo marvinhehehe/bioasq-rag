@@ -5,3 +5,4 @@ llama-index==0.10.19
 llama-index-embeddings-huggingface==0.2.0
 llama-index-llms-huggingface==0.1.4
 datasets==2.18.0
+openai==1.23.2
