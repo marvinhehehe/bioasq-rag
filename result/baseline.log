@@ -1,0 +1,29 @@
+biomedlm result:
+rouge1_fmeasure : 0.1380692571401596
+rouge1_precision : 0.15714383125305176
+rouge1_recall : 0.16845664381980896
+rouge2_fmeasure : 0.016162963584065437
+rouge2_precision : 0.018209880217909813
+rouge2_recall : 0.020619932562112808
+rougeL_fmeasure : 0.10086506605148315
+rougeL_precision : 0.11393298953771591
+rougeL_recall : 0.12571653723716736
+rougeLsum_fmeasure : 0.1146927922964096
+rougeLsum_precision : 0.13195139169692993
+rougeLsum_recall : 0.1406039297580719
+Sementic similarity score: 0.6517657858644478
+***********************************
+biomistral result:
+rouge1_fmeasure : 0.11820889264345169
+rouge1_precision : 0.1460038274526596
+rouge1_recall : 0.13617947697639465
+rouge2_fmeasure : 0.013367152772843838
+rouge2_precision : 0.01706499233841896
+rouge2_recall : 0.015340616926550865
+rougeL_fmeasure : 0.08845671266317368
+rougeL_precision : 0.10903830081224442
+rougeL_recall : 0.10445228964090347
+rougeLsum_fmeasure : 0.09929610043764114
+rougeLsum_precision : 0.12433893233537674
+rougeLsum_recall : 0.11510740220546722
+Sementic similarity score: 0.6272114931272227
